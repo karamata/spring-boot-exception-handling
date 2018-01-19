@@ -1,4 +1,4 @@
-package com.example.springbootexceptionhandling;
+package info.phuphan.springboot.exceptionhandling;
 
 import org.apache.commons.lang3.StringUtils;
 

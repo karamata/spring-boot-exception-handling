@@ -1,7 +1,7 @@
-package com.example.springbootexceptionhandling.data;
+package info.phuphan.springboot.exceptionhandling.data;
 
-import com.example.springbootexceptionhandling.bird.BirdObjectMother;
-import com.example.springbootexceptionhandling.bird.BirdRepository;
+import info.phuphan.springboot.exceptionhandling.bird.BirdObjectMother;
+import info.phuphan.springboot.exceptionhandling.bird.BirdRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Component;
 

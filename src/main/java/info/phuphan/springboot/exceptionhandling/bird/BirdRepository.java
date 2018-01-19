@@ -1,4 +1,4 @@
-package com.example.springbootexceptionhandling.bird;
+package info.phuphan.springboot.exceptionhandling.bird;
 
 import org.springframework.data.repository.CrudRepository;
 

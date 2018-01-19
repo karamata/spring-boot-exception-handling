@@ -1,6 +1,6 @@
-package com.example.springbootexceptionhandling.bird;
+package info.phuphan.springboot.exceptionhandling.bird;
 
-import com.example.springbootexceptionhandling.EntityNotFoundException;
+import info.phuphan.springboot.exceptionhandling.EntityNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

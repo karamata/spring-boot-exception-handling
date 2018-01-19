@@ -1,4 +1,4 @@
-package com.example.springbootexceptionhandling.data;
+package info.phuphan.springboot.exceptionhandling.data;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
